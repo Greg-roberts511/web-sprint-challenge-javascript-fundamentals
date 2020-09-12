@@ -26,14 +26,14 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. Briefly compare and contrast `.forEach` & `.map` (2-3 sentences max)
 
---- forEach can mutate the array it is called on by useing a function, .map returns a new array of data.--
+--- forEach can mutate the array it is called on by useing a function, .map returns a new array of data from the data provided.--
 
 2. Explain the difference between a callback and a higher order function.
 
 ---- a higher order function takes a callback function as a parameter ----
 
 3. What is closure?
-   ----closure allows function parameters to reach out of there scope but teh param cant be accsessed outside the funciotn scope----
+   ----closure allows function parameters to reach out of their scope but the param can't be accsessed outside the funciotn scope----
 
 4. Describe the four rules of the 'this' keyword.
 
@@ -45,11 +45,13 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 3.New Binding: in a constructor is used 'this' refers to the value of the object that is created.
 
-## 4.Explicit binding: when call or apply is used 'this' is explicetly defined
+4.Explicit binding: when call or apply is used 'this' is explicetly defined
+
+---
 
 5. Why do we need super() in an extended class?
 
-super() refers to the parent classes parameters which are needed for the extened class to function.
+--- super() refers to the parent classes parameters which are needed for the extened class to function. ---
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
